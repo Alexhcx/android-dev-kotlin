@@ -4,6 +4,9 @@ import java.io.File
 import java.lang.Exception
 
 /*
+
+Desafio1: Avançado
+
     Desenvolva um programa que leia um arquivo de texto contendo itens
 de consumo (alimentos, produtos diversos), suas respectivas
 quantidades. Utilize o operador Elvis para fornecer valores padrão
@@ -71,6 +74,9 @@ fun main(){
         println("Erro: A leitura do arquivo não foi possível. ")
     }
     println("Total: ${"%.2f".format(pegadaCarbonoTotal)} kg CO2")
+
+    val numbers = arrayOf(1,2,3,4,5)
+    println(numbers[2])
 }
 
 //Alexandre dos Santos Nazareth
