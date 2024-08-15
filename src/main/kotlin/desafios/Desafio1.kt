@@ -74,9 +74,6 @@ fun main(){
         println("Erro: A leitura do arquivo não foi possível. ")
     }
     println("Total: ${"%.2f".format(pegadaCarbonoTotal)} kg CO2")
-
-    val numbers = arrayOf(1,2,3,4,5)
-    println(numbers[2])
 }
 
 //Alexandre dos Santos Nazareth
