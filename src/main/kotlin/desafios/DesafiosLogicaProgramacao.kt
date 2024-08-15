@@ -30,6 +30,8 @@ fun desafio2(){
         texto = texto + "e positivo"
     } else if (numero * (-1) > 0.0 ){
         texto = texto + "e negativo"
+    } else {
+        texto = texto + "e neutro"
     }
 
     println(texto)
