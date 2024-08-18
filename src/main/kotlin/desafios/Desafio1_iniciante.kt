@@ -1,6 +1,9 @@
 package main.kotlin.desafios
 
 /*
+
+Nome: Alexandre dos Santos Nazareth
+
     Desenvolva um programa que solicite ao usuário o tipo de energia
 (eletricidade ou gás natural) e o respectivo consumo. Utilize fatores
 de emissão específicos para cada tipo de energia: Eletricidade (0.475

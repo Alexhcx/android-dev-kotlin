@@ -5,6 +5,8 @@ import java.lang.Exception
 
 /*
 
+Nome: Alexandre dos Santos Nazareth
+
 Desafio1: Avançado
 
     Desenvolva um programa que leia um arquivo de texto contendo itens
@@ -75,5 +77,3 @@ fun main(){
     }
     println("Total: ${"%.2f".format(pegadaCarbonoTotal)} kg CO2")
 }
-
-//Alexandre dos Santos Nazareth
